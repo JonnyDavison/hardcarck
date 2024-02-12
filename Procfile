@@ -1,1 +1,1 @@
-web: gunicorn hardcarck.wsgi
+web: gunicorn hardcrack.wsgi
