@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hardcrack-b6350f3ce732.herokuapp.com/', '8000-jonnydavison-hardcarck-gwck5yt94nx.ws-eu108.gitpod.io']
+ALLOWED_HOSTS = ['hardcrack-b6350f3ce732.herokuapp.com', '8000-jonnydavison-hardcarck-gwck5yt94nx.ws-eu108.gitpod.io']
 
 
 # Application definition
